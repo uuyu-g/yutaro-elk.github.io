@@ -1,5 +1,6 @@
 baseurl = "http://www.example.com"
 title = "johndoe"
+publishDir = "docs"
 
 theme = "hugo-coder"
 
